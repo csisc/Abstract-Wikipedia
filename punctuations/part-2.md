@@ -58,6 +58,3 @@
 | Ellipsis           | …       | …       | …       | …       | …        |
 
 ---
-
-**Next:**
-**Table 3 — Semantic, Pragmatic, Editorial, Scholarly, Mathematical, Technical, Digital Communication, and Visual Typography Functions (final master table).**
